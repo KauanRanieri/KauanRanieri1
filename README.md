@@ -5,11 +5,20 @@
 - 💬 Pergunte-me sobre ** JavaScript, HTML, CSS **
 
 
-<div align="center">
-  <a href="https://github.com/KauanRanieri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanRanieri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanRanieri&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<br><br>
+
+## 🛠 &nbsp;
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<br><br>
+
+
 <div style="display: inline_block"><br>
   <img align="right" height="490em" src="https://cdn.discordapp.com/attachments/441756662185984000/904802966580629574/ee04e33b-15bc-457e-814b-c8f284b6e60d.png"/>
   <img align="center" alt="Kauan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

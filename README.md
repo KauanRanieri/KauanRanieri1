@@ -1,14 +1,11 @@
 <img align="right" height="490em" src="https://cdn.discordapp.com/attachments/441756662185984000/904802966580629574/ee04e33b-15bc-457e-814b-c8f284b6e60d.png"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Kauan Ranieri</h1>
 
-- 🔥 Software developer
-
-- 💬 Pergunte-me sobre ** JavaScript, HTML, CSS **
-
 <br><br>
 
-## 🛠 &nbsp;
+- 🔥 Software developer
 
+## 🛠 &nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;

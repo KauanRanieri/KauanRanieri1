@@ -1,7 +1,6 @@
 <img align="right" height="490em" src="https://cdn.discordapp.com/attachments/441756662185984000/904802966580629574/ee04e33b-15bc-457e-814b-c8f284b6e60d.png"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Kauan Ranieri</h1>
 
-<br><br>
 
 - 🔥 Software developer
  

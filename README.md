@@ -1,5 +1,5 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Kauan Ranieri</h1>
-
+<img align="right" height="490em" src="https://cdn.discordapp.com/attachments/441756662185984000/904802966580629574/ee04e33b-15bc-457e-814b-c8f284b6e60d.png"/>
 - 🔥 Software developer
 
 - 💬 Pergunte-me sobre ** JavaScript, HTML, CSS **
@@ -20,7 +20,6 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="right" height="490em" src="https://cdn.discordapp.com/attachments/441756662185984000/904802966580629574/ee04e33b-15bc-457e-814b-c8f284b6e60d.png"/>
   <img align="center" alt="Kauan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
